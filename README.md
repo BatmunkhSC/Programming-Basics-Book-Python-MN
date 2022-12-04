@@ -37,17 +37,17 @@
 * [Python програмчлалын үндэс](https://python-book.softuni.mn)
 * [Java програмчлалын үндэс](https://java-book.softuni.mn)
 
-## Book Details
+## Номын дэлгэрэнгүй
 
-Brief information about this edition:
-* Title: **Programming Basics with Python**
-* Authors: **Svetlin Nakov & Team**
-  * Main authors: Boncho Vulkov, Hristo Minkov, Iliya Iliev, Martin Tsarev, Miglen Evlogiev, Milena Angelova, Mirela Damyanova, Nikolay Kostov, Petar Ivanov, Petya Gospodinova, Svetlin Nakov, Tanya Evtimova, Tanya Staneva, Teodor Kurtev, Ventsislav Petrov, Vladimir Damyanovski, Yordan Darakchiev
-  * Other contributors: Aleksander Krastev, Aleksander Lazarov, Aleksander Peev, Aleksandra Stoycheva, Angel Dimitriev, Ariet Motzeva, Daniel Tsvetkov, Denis Milanov, Dimitar Dzhapunov, Dimitar Tatarski, Dimo Dimov, Diyan Tonchev, Dzhaner Hasan, Elena Rogleva, Hristiyan Hristov, Hristo Hristov, Iskra Nikolova, Ivelin Kirilov, Jordan Liubenov, Julieta Atanasova, Kalin Primov, Kaloyan Nenchev, Kristiyan Pamidov, Luboslav Lubenov, Martin Zhelev, Mihail Georgiev, Natali Dimitrova, Nikola Slavchev, Nikolay Bankin, Nikolay Dimov, Pavlin Petkov, Petar Ivanov, Preslav Mihaylov, Rositsa Nenova, Ruslan Filipov, Simeon Stavrev, Stefka Vasileva, Svetlin Nakov, Teodor Kurtev, Tonyo Zhelev, Tsvetan Iliev, Vasko Viktorov, Venelin Bekyarov, Ventsislav Petrov, Yanitsa Vuleva, Yulian Linev, Zahariya Pehlivanova, Zhivko Nedyalkov
+Энэхүү номын талаар товч мэдээлэл:
+* Гарчиг: **Python програмчлалын үндэс**
+* Зохиогчид: **Светлин Назов болон Team**
+  * Үндсэн зохиогчид: Бончо Вулков, Христо Минков, Илья Илиев, Мартин Царев, Миглен Евлогиев, Милена Ангелова, Мирела Дамьянова, Николай Костов, Петр Иванов, Петя Господинова, Светлин Наков, Таня Евтимова, Таня Станева, Теодор Куртев, Вентсислав Петров, Владимир Дамьяновский, Йордан Даракчиев
+  * Бусад оролцогчид: Александр Крастев, Александр Лазаров, Александр Пеев, Александра Стойчева, Ангел Димитриев, Ариет Моцева, Даниел Цветков, Денис Миланов, Димитар Жапунов, Димитар Татарски, Димо Димов, Диян Тончев, Джанер Хасанова, Христ Хсанова, Элена Рожист, Христов, Искра Николова, Ивелин Кирилов, Жордан Любенов, Жулиета Атанасова, Калин Примов, Калоян Ненчев, Кристиян Памидов, Любослав Лубенов, Мартин Желев, Михаил Георгиев, Натали Димитрова, Никола Славчев, Николай Банкин, Николай Д.Петов, Петров Петов И. Преслав Михайлов, Росица Ненова, Руслан Филипов, Симеон Ставрев, Стефка Василева, Светлин Наков, Теодор Куртев, Тонё Желев, Цветан Илиев, Васко Викторов, Венелин Бекяров, Вентсислав Петров, Венелин Бекяров, Вентсислав Петров, Яница Вулева, Юлиан Линев, Яница Вулева, Юлиан Линев, Захарь Пехлиев
 * ISBN: **978-619-00-1403-4** (9786190014034)
-* Edition: **Faber Publishing, Sofia, Dec 2021** (expected)
-* License: **CC-BY-SA**
-* Source code: https://github.com/SoftUni/Programming-Basics-Book-Python-MN
+* Хувилбар: **Faber Publishing, Sofia, Dec 2021** (expected)
+* Лиценз: **CC-BY-SA**
+* Эх код: https://github.com/SoftUni/Programming-Basics-Book-Python-MN
 
 <!-- ## Free Practical Programming Course
 
