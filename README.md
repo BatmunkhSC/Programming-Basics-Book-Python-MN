@@ -1,41 +1,41 @@
-# Үнэгүй ном "Python програмчлалын үндэс"
+# "Python програмчлалын үндэс" үнэгүй ном
 
-The free book "**Programming Basics with Python**" introduces the readers to writing **programming code** at a beginner level (variables and data, conditional statements, loops, and functions) using the **Python** programming language.
+"**Pythong програмчлалын үндэс**" ном нь уншигчиддаа Python хэлийг ашиглан анхан шатны **програмчлалын код** (хувьсагч болон өгөгдөл, нөхцөл шалгах үйлдэл, давталтын төрлүүд болон функцүүд) бичих мэдлэгийг олгоно.
 
 <a href="#"><img src="/assets/Python-Programming-Basics-Book-Cover.png" alt="Book Programming Basics with Python - Cover" class="readme-book-cover-image" /></a>
 
-* [Preface](chapter-00-preface.md)
-* [1. First Steps in Programming](chapter-01-first-steps-in-programming.md)
-* [2.1. Simple Calculations](chapter-02-simple-calculations.md)
-* [2.2. Simple Calculations – Exam Problems](chapter-02-simple-calculations-exam-problems.md)
-* [3.1. Simple Conditions](chapter-03-simple-conditions.md)
-* [3.2. Simple Conditions – Exam Problems](chapter-03-simple-conditions-exam-problems.md)
-* [4.1. More Complex Conditions](chapter-04-complex-conditions.md)
-* [4.2. More Complex Conditions – Exam Problems](chapter-04-complex-conditions-exam-problems.md)
-* [5.1. Loops](chapter-05-loops.md)
-* [5.2. Loops – Exam Problems](chapter-05-loops-exam-problems.md)
-* [6.1. Nested Loops](chapter-06-nested-loops.md)
-* [6.2. Nested Loops – Exam Problems](chapter-06-nested-loops-exam-problems.md)
-* [7.1. More Complex Loops](chapter-07-complex-loops.md)
-* [7.2. More Complex Loops – Exam Problems](chapter-07-complex-loops-exam-problems.md)
-* [8.1. Practical Exam Preparation – Part I](chapter-08-exam-preparation.md)
-* [8.2. Practical Exam Preparation – Part II](chapter-08-exam-preparation-part-2.md)
-* [9.1. Problems for Champions – Part I](chapter-09-problems-for-champions.md)
-* [9.2. Problems for Champions – Part II](chapter-09-problems-for-champions-part-2.md)
-* [10. Methods](chapter-10-functions.md)
+* [Өмнөх үг](chapter-00-preface.md)
+* [1. Програмчлалын анхы алхам](chapter-01-first-steps-in-programming.md)
+* [2.1. Энгийн тооцоолол](chapter-02-simple-calculations.md)
+* [2.2. Энгийн тооцоолол – Шалгалтын бодлогууд](chapter-02-simple-calculations-exam-problems.md)
+* [3.1. Энгийн нөхцөл шалгах үйлдлүүд](chapter-03-simple-conditions.md)
+* [3.2. Энгийн нөхцөл шалгах үйлдлүүд – Шалгалтын бодлогууд](chapter-03-simple-conditions-exam-problems.md)
+* [4.1. Илүү цогц нөхцлүүд](chapter-04-complex-conditions.md)
+* [4.2. Илүү цогц нөхцлүүд – Шалгалтын бодлогууд](chapter-04-complex-conditions-exam-problems.md)
+* [5.1. Давталтууд](chapter-05-loops.md)
+* [5.2. Давталтууд – Шалгалтын бодлогууд](chapter-05-loops-exam-problems.md)
+* [6.1. Давхар давталтууд](chapter-06-nested-loops.md)
+* [6.2. Давхар давталтууд – Шалгалтын бодлогууд](chapter-06-nested-loops-exam-problems.md)
+* [7.1. Илүү цогц давталтууд](chapter-07-complex-loops.md)
+* [7.2. Илүү цогц давталтууд – Шалгалтын бодлогууд](chapter-07-complex-loops-exam-problems.md)
+* [8.1. Дадлагын Шалгалтын Бэлтгэл – 1-р хэсэг](chapter-08-exam-preparation.md)
+* [8.2. Дадлагын Шалгалтын Бэлтгэл – 2-р хэсэг](chapter-08-exam-preparation-part-2.md)
+* [9.1. Champions-н бодлогууд – Нэгдүгээр хэсэг](chapter-09-problems-for-champions.md)
+* [9.2. Champions-н бодлогууд – Хоёрдугаар хэсэг](chapter-09-problems-for-champions-part-2.md)
+* [10. Функцүүд](chapter-10-functions.md)
 * [11. Tricks and Hacks](chapter-11-tricks-and-hacks.md)
-* [Conclusion](chapter-12-conclusion.md)
+* [Дүгнэлт](chapter-12-conclusion.md)
 
 <!-- ## Download The Book
 
-Download the book "**Programming Basics with Python**" in **PDF** format:
-* <a href="#">TODO</a> -->
+"**Python програмчлалын үндэс**" номыг **PDF** форматаар * <a href="#">ТАТАХ</a> 
+-->
 
-## Book Editions
+## Номны Хувилбарууд
 
-This book is available in several versions in different programming languages:
-* [Programming Basics with Python (Mongolian)](https://python-book.softuni.mn)
-* [Programming Basics with Java (Mongolian)](https://java-book.softuni.mn)
+Энэ ном нь бусад програмчлалын хэлнүүд дээр хувилбартай:
+* [Python програмчлалын үндэс](https://python-book.softuni.mn)
+* [Java програмчлалын үндэс](https://java-book.softuni.mn)
 
 ## Book Details
 
