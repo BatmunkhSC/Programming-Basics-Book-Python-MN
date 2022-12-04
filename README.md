@@ -23,7 +23,7 @@
 * [9.1. Champions-н бодлогууд – Нэгдүгээр хэсэг](chapter-09-problems-for-champions.md)
 * [9.2. Champions-н бодлогууд – Хоёрдугаар хэсэг](chapter-09-problems-for-champions-part-2.md)
 * [10. Функцүүд](chapter-10-functions.md)
-* [11. Tricks and Hacks](chapter-11-tricks-and-hacks.md)
+* [11. Хэрэгтэй арга барилууд - Tricks and Hacks](chapter-11-tricks-and-hacks.md)
 * [Дүгнэлт](chapter-12-conclusion.md)
 
 <!-- ## Download The Book
@@ -31,7 +31,7 @@
 "**Python програмчлалын үндэс**" номыг **PDF** форматаар * <a href="#">ТАТАХ</a> 
 -->
 
-## Номны Хувилбарууд
+## Номны хувилбарууд
 
 Энэ ном нь бусад програмчлалын хэлнүүд дээр хувилбартай:
 * [Python програмчлалын үндэс](https://python-book.softuni.mn)
